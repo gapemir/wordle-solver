@@ -1,2 +1,2 @@
 # wordle-solver
-solver for wordle (almost) automatic
+ (almost) automatic solver for wordle
